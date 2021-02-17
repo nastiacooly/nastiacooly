@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Anastasia (@nastiacooly).
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning Javascript (including React framework).
