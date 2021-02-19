@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anastasia (@nastiacooly).
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning vanilla Javascript and I also plan to learn React framework).
+- 🌱 I’m currently learning vanilla Javascript and I also plan to learn React framework.
