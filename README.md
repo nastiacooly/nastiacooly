@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Anastasia (@nastiacooly).
 - 👀 I’m interested in web-development and, particularly, in front-end development.
-- 🌱 I’m currently learning vanilla Javascript and I also plan to learn React framework.
+- 🌱 In my projects I use HTML, CSS (Sass/Scss), Bootstrap, vanilla Javascript and Python (with Django Framework).
+- 👩🏻 I'm also planning to deepen my knowledge of React.
