@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anastasia (@nastiacooly).
 - 👀 I’m interested in web-development and, particularly, in front-end development.
-- 🌱 In my projects I use HTML, CSS (Sass/Scss), Bootstrap, vanilla Javascript and Python (with Django Framework).
-- 👩🏻 I'm also currently studying React.
+- 🌱 In my projects I use HTML5, CSS3 (Sass/Scss), Bootstrap and vanilla Javascript. Sometimes I develop backend for my projects too with Python (Django Framework).
+- 👩🏻 Also, I develop web-apps with React library.
